@@ -1,8 +1,8 @@
-\# HDMap-AI-QA
+HDMap-AI-QA
 
 
 
-\## 面向高精地图的空间质量检测与 AI 异常识别系统
+# 面向高精地图的空间质量检测与 AI 异常识别系统
 
 
 
@@ -30,7 +30,7 @@ PyTorch 和 Streamlit 构建的高精地图质量检测实验系统。
 
 
 
-\## 1. 项目背景
+# 1. 项目背景
 
 
 
@@ -82,7 +82,7 @@ PyTorch 和 Streamlit 构建的高精地图质量检测实验系统。
 
 
 
-\## 2. 系统架构
+# 2. 系统架构
 
 
 
@@ -156,11 +156,11 @@ Streamlit Dashboard
 
 
 
-\## 3. 核心功能
+ # 3. 核心功能
 
 
 
-\### 3.1 道路数据生成
+ ## 3.1 道路数据生成
 
 
 
@@ -186,7 +186,7 @@ Streamlit Dashboard
 
 
 
-\### 3.2 异常注入
+ ## 3.2 异常注入
 
 
 
@@ -214,7 +214,7 @@ Streamlit Dashboard
 
 
 
-\### 3.3 属性质量检测
+ ## 3.3 属性质量检测
 
 
 
@@ -234,7 +234,7 @@ Streamlit Dashboard
 
 
 
-\### 3.4 几何质量检测
+ ## 3.4 几何质量检测
 
 
 
@@ -256,7 +256,7 @@ Streamlit Dashboard
 
 
 
-\### 3.5 拓扑质量检测
+ ## 3.5 拓扑质量检测
 
 
 
@@ -276,11 +276,11 @@ Streamlit Dashboard
 
 
 
-\## 4. AI 异常识别
+ # 4. AI 异常识别
 
 
 
-\### 4.1 特征工程
+ ## 4.1 特征工程
 
 
 
@@ -304,7 +304,7 @@ road\_type 使用 One-Hot Encoding 转换为数值特征。
 
 
 
-\### 4.2 模型实验
+ ## 4.2 模型实验
 
 
 
@@ -324,7 +324,7 @@ road\_type 使用 One-Hot Encoding 转换为数值特征。
 
 
 
-\### 4.3 模型结果
+ ## 4.3 模型结果
 
 
 
@@ -364,7 +364,7 @@ Random Forest 和 XGBoost 在当前模拟规则型异常数据上取得最高性
 
 
 
-\## 5. 规则检测与 AI 检测的关系
+ # 5. 规则检测与 AI 检测的关系
 
 
 
@@ -412,7 +412,7 @@ AI 模型主要根据道路属性和长度特征学习异常模式。
 
 
 
-\## 6. 模型部署
+ # 6. 模型部署
 
 
 
@@ -458,7 +458,7 @@ models/hdmap\_rf\_pipeline.joblib
 
 
 
-\## 7. Web Dashboard
+ # 7. Web Dashboard
 
 
 
@@ -498,7 +498,7 @@ models/hdmap\_rf\_pipeline.joblib
 
 
 
-\## 8. 地图可视化
+ # 8. 地图可视化
 
 
 
@@ -542,11 +542,11 @@ models/hdmap\_rf\_pipeline.joblib
 
 
 
-\## 9. 技术栈
+ # 9. 技术栈
 
 
 
-\### GIS / Spatial Data
+ ## GIS / Spatial Data
 
 
 
@@ -566,7 +566,7 @@ models/hdmap\_rf\_pipeline.joblib
 
 
 
-\### Data Engineering
+ ## Data Engineering
 
 
 
@@ -578,7 +578,7 @@ models/hdmap\_rf\_pipeline.joblib
 
 
 
-\### Machine Learning
+ ## Machine Learning
 
 
 
@@ -592,7 +592,7 @@ models/hdmap\_rf\_pipeline.joblib
 
 
 
-\### Deep Learning
+ ## Deep Learning
 
 
 
@@ -610,7 +610,7 @@ models/hdmap\_rf\_pipeline.joblib
 
 
 
-\### Application
+ ## Application
 
 
 
@@ -626,7 +626,7 @@ models/hdmap\_rf\_pipeline.joblib
 
 
 
-\## 10. 项目目录
+ # 10. 项目目录
 
 
 
