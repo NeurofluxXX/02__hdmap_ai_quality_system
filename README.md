@@ -160,7 +160,7 @@ Streamlit Dashboard
 
 
 
-\### 3.1 道路数据生成
+\  3.1 道路数据生成
 
 
 
@@ -186,7 +186,7 @@ Streamlit Dashboard
 
 
 
-\### 3.2 异常注入
+\  3.2 异常注入
 
 
 
@@ -214,7 +214,7 @@ Streamlit Dashboard
 
 
 
-\### 3.3 属性质量检测
+\  3.3 属性质量检测
 
 
 
@@ -234,7 +234,7 @@ Streamlit Dashboard
 
 
 
-\### 3.4 几何质量检测
+\  3.4 几何质量检测
 
 
 
@@ -256,7 +256,7 @@ Streamlit Dashboard
 
 
 
-\### 3.5 拓扑质量检测
+\  3.5 拓扑质量检测
 
 
 
@@ -280,7 +280,7 @@ Streamlit Dashboard
 
 
 
-\### 4.1 特征工程
+\  4.1 特征工程
 
 
 
@@ -304,7 +304,7 @@ road\_type 使用 One-Hot Encoding 转换为数值特征。
 
 
 
-\### 4.2 模型实验
+\  4.2 模型实验
 
 
 
@@ -324,7 +324,7 @@ road\_type 使用 One-Hot Encoding 转换为数值特征。
 
 
 
-\### 4.3 模型结果
+\  4.3 模型结果
 
 
 
@@ -546,7 +546,7 @@ models/hdmap\_rf\_pipeline.joblib
 
 
 
-\### GIS / Spatial Data
+\  GIS / Spatial Data
 
 
 
@@ -566,7 +566,7 @@ models/hdmap\_rf\_pipeline.joblib
 
 
 
-\### Data Engineering
+\  Data Engineering
 
 
 
@@ -578,7 +578,7 @@ models/hdmap\_rf\_pipeline.joblib
 
 
 
-\### Machine Learning
+\  Machine Learning
 
 
 
@@ -592,7 +592,7 @@ models/hdmap\_rf\_pipeline.joblib
 
 
 
-\### Deep Learning
+\  Deep Learning
 
 
 
@@ -610,7 +610,7 @@ models/hdmap\_rf\_pipeline.joblib
 
 
 
-\### Application
+\  Application
 
 
 
@@ -632,7 +632,7 @@ models/hdmap\_rf\_pipeline.joblib
 
 ```text
 
-03\_\_hdmap\_ai\_quality\_system/
+02\_\_hdmap\_ai\_quality\_system/
 
 
 
