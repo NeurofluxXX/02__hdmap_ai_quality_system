@@ -1,0 +1,8 @@
+feature,importance
+speed_limit,0.33361245001248335
+road_length_m,0.3104063698943296
+lane_num,0.30983385729489477
+road_type_motorway,0.032419767009406485
+road_type_primary,0.0075077559299303
+road_type_residential,0.0034236359231041963
+road_type_secondary,0.0027961639358512536

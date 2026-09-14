@@ -1,0 +1,6 @@
+road_id,road_type,speed_limit,lane_num,road_length_m,predicted_anomaly,anomaly_probability,prediction_label
+NEW001,primary,60,4,3000,0,0.01,Normal
+NEW002,secondary,40,2,1500,0,0.0,Normal
+NEW003,primary,200,4,3000,1,0.97,Anomaly
+NEW004,secondary,40,10,1500,1,0.88,Anomaly
+NEW005,residential,30,1,1,1,1.0,Anomaly

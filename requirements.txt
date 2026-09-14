@@ -1,0 +1,16 @@
+pandas
+numpy
+
+geopandas
+shapely
+
+scikit-learn
+xgboost
+torch
+joblib
+
+matplotlib
+
+streamlit
+folium
+streamlit-folium
